@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaximusTaskKotlin</string>
+    <string name="splash">Splash</string>
+    <string name="fact_reload">Reload Fact</string>
+</resources>
